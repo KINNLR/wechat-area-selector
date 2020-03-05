@@ -3,7 +3,6 @@
  <picker mode="multiSelector" bindchange="bindMultiPickerChange" bindcolumnchange="bindMultiPickerColumnChange" bindcancel="onCancel" value="{{multiIndex}}" range="{{multiArray}}" range-key="label">
     <view class="picker">
       {{selectedText?selectedText:'请选择地区'}}
-      <image class='image' src="https://ycp-prod-public.oss-cn-hangzhou.aliyuncs.com/appResources/navigation_button_forward_in.png"  style="width:15px;height:15px"></image>
     </view>
   </picker>
 </view>
