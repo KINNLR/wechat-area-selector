@@ -13,5 +13,3 @@ objectMultiArray： 省地区联动时市区的匹配（全部地区）
 添加到小程序的components文件夹中
 父组件中useCompnents即可
 
-## commit
-
